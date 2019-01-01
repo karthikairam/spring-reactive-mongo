@@ -1,4 +1,4 @@
-package com.emirates.reactive.Reactivemongo;
+package com.learnstack.reactive.sample;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;

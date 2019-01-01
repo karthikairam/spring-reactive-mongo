@@ -1,8 +1,8 @@
-package com.emirates.reactive.Reactivemongo.resource;
+package com.learnstack.reactive.sample.resource;
 
-import com.emirates.reactive.Reactivemongo.domainobject.Employee;
-import com.emirates.reactive.Reactivemongo.domainobject.EmployeeEvent;
-import com.emirates.reactive.Reactivemongo.repo.EmployeeRepo;
+import com.learnstack.reactive.sample.domainobject.Employee;
+import com.learnstack.reactive.sample.domainobject.EmployeeEvent;
+import com.learnstack.reactive.sample.repo.EmployeeRepo;
 import org.springframework.http.MediaType;
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.PathVariable;

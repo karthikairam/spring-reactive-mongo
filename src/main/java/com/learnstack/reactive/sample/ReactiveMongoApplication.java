@@ -1,7 +1,7 @@
-package com.emirates.reactive.Reactivemongo;
+package com.learnstack.reactive.sample;
 
-import com.emirates.reactive.Reactivemongo.domainobject.Employee;
-import com.emirates.reactive.Reactivemongo.repo.EmployeeRepo;
+import com.learnstack.reactive.sample.domainobject.Employee;
+import com.learnstack.reactive.sample.repo.EmployeeRepo;
 import org.springframework.boot.CommandLineRunner;
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

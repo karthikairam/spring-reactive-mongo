@@ -1,4 +1,4 @@
-package com.emirates.reactive.Reactivemongo.domainobject;
+package com.learnstack.reactive.sample.domainobject;
 
 import lombok.AllArgsConstructor;
 import lombok.Data;

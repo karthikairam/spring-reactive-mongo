@@ -1,6 +1,6 @@
-package com.emirates.reactive.Reactivemongo.repo;
+package com.learnstack.reactive.sample.repo;
 
-import com.emirates.reactive.Reactivemongo.domainobject.Employee;
+import com.learnstack.reactive.sample.domainobject.Employee;
 import org.springframework.data.mongodb.repository.ReactiveMongoRepository;
 
 public interface EmployeeRepo extends ReactiveMongoRepository<Employee, String> {

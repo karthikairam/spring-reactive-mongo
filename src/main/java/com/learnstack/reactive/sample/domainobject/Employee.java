@@ -1,4 +1,4 @@
-package com.emirates.reactive.Reactivemongo.domainobject;
+package com.learnstack.reactive.sample.domainobject;
 
 import lombok.*;
 import org.springframework.data.annotation.Id;
